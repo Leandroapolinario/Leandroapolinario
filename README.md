@@ -1,4 +1,4 @@
-### Oi! Sou Leandro [Apolinário]
+### Oi! Sou Leandro 
 - 🔭 Atualmente sou gerente de marketing
 - 💻 Estou aprendendo programação
 - 😄 Pronomes: ele/dele
