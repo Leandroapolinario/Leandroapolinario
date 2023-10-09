@@ -4,8 +4,6 @@
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: sou canceriano 🤷‍♂️
 
-<div class="Box mt-4" style="background: linear-gradient(45deg, violet, red); color: white; padding: 16px;">
-  <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
       <div class="text-mono text-small mb-3">
         <a href="https://github.com/Leandroapolinario" class="no-underline Link--primary">
