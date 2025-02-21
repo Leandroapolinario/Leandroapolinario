@@ -1,5 +1,5 @@
 ### Oi! Sou Leandro
-- 🔭 Atualmente sou analista de marketing
+- 🔭 Atualmente estou em transição de carreira
 - 💻 Estou aprendendo programação
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: sou canceriano 🤷‍♂️
