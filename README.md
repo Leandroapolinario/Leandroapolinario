@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8200DB&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Henry+;Desenvolvedor+Front+end+%E2%9D%8C;Desenvolvedor+Back+end+%E2%9D%8C;Desenvolvedor+Full+stack+%E2%9C%85)](https://git.io/typing-svg)
-
-
  <h2>Sobre min </h2>
 <img src='https://komarev.com/ghpvc/?username=Henrytos&label=Profile%20views&color=8200db&style=flat'>
 
