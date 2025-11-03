@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8200DB&width=435&lines=Oi,+eu+sou+o+Leandro!+;Desenvolvedor+Front+end+%E2%9D%8C;Desenvolvedor+Back+end+%E2%9D%8C;Desenvolvedor+Full+stack+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8200DB&width=435&lines=Oi,+eu+sou+o+Leandro!+;Desenvolvedor+Front-end+%E2%9D%8C;Desenvolvedor+Back-end+%E2%9D%8C;Desenvolvedor+Full+stack+%E2%9C%85)](https://git.io/typing-svg)
  
  
  <h2>Sobre min </h2>
